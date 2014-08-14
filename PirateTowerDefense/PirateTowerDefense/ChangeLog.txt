@@ -1,0 +1,6 @@
+02/08/2014
+Added State and StateMachine headers to project- I
+Gave Defense a StateMachine variable with Idle being the default state - I
+Started with some defenseStates but needs logic and overall evaluation - I
+Switched Node generation code so it goes across each row rather than down each column - I
+[The above causes errors with non sqaure grids - will do on paper to get my head around why - I]
